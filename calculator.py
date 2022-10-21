@@ -21,5 +21,5 @@ elif z == '*':
 elif z == '/':
         division(x,y)
         
-print ('Have a good day, Patricia! :)')
+print ('Have a good day! :)')
     
